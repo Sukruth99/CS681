@@ -1,0 +1,32 @@
+﻿Day,Time,Truck,Location,Pinpoint,Hours,Management,Notes,Link,x,y,ObjectId
+Monday,Lunch,Chicken and Rice Guys ,Back Bay,BPL - Central,11-2pm,City of Boston,,https://cnrguys.com/,-71.0781982,42.3498623,1
+Thursday,Lunch,Chicken and Rice Guys ,Back Bay,BPL - Central,11-2pm,City of Boston,,https://cnrguys.com/,-71.0781982,42.3498623,2
+Monday,Lunch,Indian Street Cravings,Back Bay,Clarendon St (by Trinity Church),11-2pm,City of Boston,,https://indianstreetcravings.com/,-71.075124,42.3505341,3
+Tuesday,Lunch,Moyzilla,Back Bay,Clarendon St (by Trinity Church),11-2pm,City of Boston,,https://www.moyzillaboston.com/,-71.075124,42.3505341,4
+Wednesdays,Lunch,Hungry Nomads,Back Bay,Clarendon St (by Trinity Church),11-2pm,City of Boston,,https://www.hungrynomadsboston.com/,-71.075124,42.3505341,5
+Thursday,Lunch,Chicken and Rice Guys ,Back Bay,Clarendon St (by Trinity Church),11-2pm,City of Boston,,https://cnrguys.com/,-71.075124,42.3505341,6
+Tuesday,Lunch,Tacos Calleteco,Back Bay,Clarendon St (by Trinity Church),11-2pm,City of Boston,,https://www.tacoscalleteco.com/,-71.075124,42.3505341,7
+Tuesday,Lunch,Hungry Nomads,Back Bay,Clarendon St (by Trinity Church),11-2pm,City of Boston,,https://www.hungrynomadsboston.com/,-71.075124,42.3505341,8
+Tuesday,Lunch,Indian Street Cravings,Downtown,"City Hall Plaza, Fisher Park",11-2pm,City of Boston,,https://indianstreetcravings.com/,-71.0781982,42.3498623,9
+Thursday,Lunch,Chick-fil-A,Charlestown,Navy Yard (3rd Avenue and 13th street),11-2pm,City of Boston,,https://chickfilacopleysquare.com/,-71.0510372,42.3778336,10
+Thursday,Dinner,Chick-fil-A,Charlestown,Navy Yard (3rd Avenue and 13th street),4-8pm,City of Boston,,https://chickfilacopleysquare.com/,-71.0510372,42.3778336,11
+Wednesday,Lunch,Indian Street Cravings,Fenway,Opera Place (by Huntington Avenue),11-2pm,City of Boston,,https://indianstreetcravings.com/,-71.08897446,42.34047826,12
+Thursday,Lunch,Indian Street Cravings,Fenway,Opera Place (by Huntington Avenue),11-2pm,City of Boston,,https://indianstreetcravings.com/,-71.08897446,42.34047826,13
+Tuesday,Lunch,Zinnekens,Kenmore,BU - East Campus,11-2pm,City of Boston,,https://zinnetruck.com/,-71.1023555,42.3493844,14
+Wednesday,Lunch,Zinnekens,Kenmore,BU - East Campus,11-2pm,City of Boston,,https://zinnetruck.com/,-71.1023555,42.3493844,15
+Wednesday,Dinner,Zinnekens,Kenmore,BU - East Campus,4-8pm,City of Boston,,https://zinnetruck.com/,-71.1023555,42.3493844,16
+Thursday,Lunch,Zaaki,Kenmore,BU - East Campus,11-2pm,City of Boston,,https://zaakifoodtruck.com/,-71.1023555,42.3493844,17
+Friday,Lunch,Zaaki,Kenmore,BU - East Campus,11-2pm,City of Boston,,https://zaakifoodtruck.com/,-71.1023555,42.3493844,18
+Friday,Lunch,Tacos Calleteco,Seaport,62 Northern Ave.,11-2pm,City of Boston,,https://www.tacoscalleteco.com/,-71.0452338,42.3528306,19
+Sunday,Lunch,Indian Street Food Cravings,Seaport,62 Northern Ave.,11-2pm,City of Boston,,https://indianstreetcravings.com/,-71.0452338,42.3528306,20
+Wednesday,Lunch,Tacos Calleteco,South Boston ,A Street Park,11-2pm,City of Boston,,https://www.tacoscalleteco.com/,-71.05240294,42.34429681,21
+Monday,Lunch,Zaaki,West End,MGH (Blossom/Emerson),11-2pm,City of Boston,,https://zaakifoodtruck.com/,-71.0683709,42.3640521,22
+Monday,Lunch,Bibim Box,West End,MGH (Blossom/Emerson),11-2pm,City of Boston,,https://www.bibimboxtruck.com/,-71.0683709,42.3640521,23
+Tuesday,Lunch,Bibim Box,West End,MGH (Blossom/Emerson),11-2pm,City of Boston,,https://www.bibimboxtruck.com/,-71.0683709,42.3640521,24
+Tuesday,Lunch,Lordya Gourmet,West End,MGH (Blossom/Emerson),11-2pm,City of Boston,,,-71.0683709,42.3640521,25
+Wednesday,Lunch,Bon Me,West End,MGH (Blossom/Emerson),11-2pm,City of Boston,,https://bonmetruck.com/,-71.0683709,42.3640521,26
+Wednesday,Lunch,Stuffed By Papi,West End,MGH (Blossom/Emerson),11-2pm,City of Boston,,http://www.stuffedbypapi.com/,-71.0683709,42.3640521,27
+Thursday,Lunch,Hungry Nomads,West End,MGH (Blossom/Emerson),11-2pm,City of Boston,,https://www.hungrynomadsboston.com/,-71.0683709,42.3640521,28
+Friday,Lunch,Indian Street Cravings,West End,MGH (Blossom/Emerson),11-2pm,City of Boston,,https://indianstreetcravings.com/,-71.0683709,42.3640521,29
+Friday,Lunch,Stuffed By Papi,West End,MGH (Blossom/Emerson),11-2pm,City of Boston,,http://www.stuffedbypapi.com/,-71.0683709,42.3640521,30
+Saturday,Lunch,Indian Street Cravings,West End,MGH (Blossom/Emerson),11-2pm,City of Boston,,https://indianstreetcravings.com/,-71.0683709,42.3640521,31
