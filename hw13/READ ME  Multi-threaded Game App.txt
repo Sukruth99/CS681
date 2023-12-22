@@ -1,0 +1,52 @@
+READ ME : Multi-threaded Game Application Simulation
+
+Application Overview
+This application simulates a game scenario similar to VALORANT, a 5v5 multiplayer game. The primary functionality is to record players
+who successfully eliminate an enemy player. A critical aspect of this simulation is handling situations where multiple players kill
+an enemy player simultaneously.
+
+
+
+
+Original Version: GameUnsafe and RunningUnsafeGame
+
+GameUnsafe Class:
+Implements the basic functionality of the game.
+playerKillsEnemy(String playerName): Records the name of a player who kills an enemy.
+
+
+RunningUnsafeGame Class:
+Runs the game using multiple threads (simulating different players) in an unsafe manner.
+Each thread represents a player attempting to kill an enemy.
+The class demonstrates the race condition by recording the names of players who make a kill.
+
+
+Race Condition:
+The original version suffers from a race condition where multiple threads (players) access and modify
+shared data (list of players who made a kill) concurrently. This can lead to inconsistent and unreliable
+recording of player names, especially in scenarios of simultaneous kills.
+
+
+Revised Version: GameSafe and RunningSafeGame
+
+
+GameSafe Class:
+Similar to GameUnsafe, but with added thread safety for concurrent access.
+Uses a ReentrantLock to synchronize access to the shared data.
+
+
+RunningSafeGame Class:
+Similar to RunningUnsafeGame, but uses GameSafe for a thread-safe simulation.
+Ensures consistent and accurate recording of player names even in simultaneous kill scenarios.
+
+
+Resolution of Race Condition:
+The race condition is resolved by using synchronization mechanisms.
+The ReentrantLock ensures that only one thread can access the shared data at a time, maintaining data integrity and consistency.
+
+
+Conclusion
+The simulation demonstrates the importance of thread safety in concurrent applications.
+The original version's race condition leads to unreliable outcomes, whereas the revised
+version provides consistent and accurate results, ensuring fair and predictable gameplay
+even in complex scenarios like simultaneous kills.
